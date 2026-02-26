@@ -241,7 +241,7 @@ pygame.init()
 #----------------------------
 
 pygame.mixer.init()
-pygame.mixer.music.load("quevashacer.mp3")
+pygame.mixer.music.load("canto.mp3")
 pygame.mixer.music.set_volume(0.5)  # volumen 0.0 - 1.0
 pygame.mixer.music.play(-1)  # -1 = loop infinito
 
